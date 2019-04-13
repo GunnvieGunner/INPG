@@ -4,6 +4,7 @@
 #include <sstream>
 #include <algorithm>
 #include <iomanip>
+#include <map>
 
 std::string to_string(const Vehicle& vehicle) {
     std::ostringstream oss;
