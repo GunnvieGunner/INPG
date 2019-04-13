@@ -2,7 +2,7 @@
 #define SHAPES_HPP_
 
 #include <vector>
-
+#include <sstream>
 class Shape {
 public:
     Shape(double x, double y) : x_(x), y_(y) {}
