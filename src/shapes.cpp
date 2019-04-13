@@ -1,5 +1,6 @@
 #include "shapes.hpp"
 
+#include <array>
 #include <numeric>
 
 double calculate_total_area(const std::vector<Shape*>& shapes) {
