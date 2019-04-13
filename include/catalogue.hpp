@@ -6,6 +6,7 @@
 #include <vector>
 // Biblioteka <functional> zawiera definicję szablonu klasy `std::function`.
 #include <functional>
+#include <sstream>
 
 class Product {
 public:
