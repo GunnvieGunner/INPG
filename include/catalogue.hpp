@@ -1,6 +1,7 @@
 #ifndef CATALOGUE_HPP_
 #define CATALOGUE_HPP_
 
+#include <array>
 #include <string>
 #include <map>
 #include <vector>
