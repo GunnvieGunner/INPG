@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 #include <functional>
+#include <sstream>
 
 class Vehicle {
 public:
