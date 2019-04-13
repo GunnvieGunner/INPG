@@ -4,7 +4,7 @@
 #include <sstream>
 #include <algorithm>
 #include <iomanip>
-
+#include <array>
 std::string to_string(const Vehicle& vehicle) {
     std::ostringstream oss;
     oss << vehicle.get_id() << " :  " << vehicle.get_brand();
