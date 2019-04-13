@@ -3,6 +3,7 @@
 #include <sstream>
 #include <iomanip>
 #include <algorithm>
+#include <map>
 
 std::string to_string(const Product& product) {
     std::ostringstream oss;
