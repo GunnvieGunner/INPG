@@ -5,6 +5,9 @@
 
 using ::testing::Property;
 
+
+
+
 TEST(CatalogueTest, containsKeyIsNotPresent) {
     Product p("P", "", 0.0);
     Catalogue catalogue;
