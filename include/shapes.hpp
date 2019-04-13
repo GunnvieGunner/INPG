@@ -2,6 +2,7 @@
 #define SHAPES_HPP_
 
 #include <vector>
+#include <array>
 
 class Shape {
 public:
