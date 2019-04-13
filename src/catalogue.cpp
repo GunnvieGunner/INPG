@@ -1,5 +1,5 @@
 #include "catalogue.hpp"
-
+#include <array>
 #include <sstream>
 #include <iomanip>
 #include <algorithm>
