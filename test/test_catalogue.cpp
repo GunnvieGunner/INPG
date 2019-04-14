@@ -2,7 +2,7 @@
 #include "gmock/gmock.h"
 
 #include "catalogue.hpp"
-
+#include <array>
 using ::testing::Property;
 
 

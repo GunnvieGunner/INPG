@@ -5,8 +5,12 @@
 #include <sstream>
 #include <algorithm>
 #include <numeric>
+<<<<<<< HEAD
 #include <map>
 
+=======
+#include <array>
+>>>>>>> remotes/origin/New-Branch
 
 
 
