@@ -3,6 +3,7 @@
 
 #include <string>
 
+
 class Ulamek {
 private:
     int p_;
