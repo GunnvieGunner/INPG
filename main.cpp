@@ -1,6 +1,6 @@
 #include <iostream>
 
-
+#include <algorithm>
 
 class Ulamek {
 private:
