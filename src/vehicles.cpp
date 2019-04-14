@@ -4,8 +4,12 @@
 #include <sstream>
 #include <algorithm>
 #include <iomanip>
+<<<<<<< HEAD
 #include <map>
 
+=======
+#include <array>
+>>>>>>> remotes/origin/New-Branch
 std::string to_string(const Vehicle& vehicle) {
     std::ostringstream oss;
     oss << vehicle.get_id() << " :  " << vehicle.get_brand();

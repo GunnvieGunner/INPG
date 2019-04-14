@@ -1,5 +1,6 @@
 #include "shapes.hpp"
 
+#include <array>
 #include <numeric>
 #include <map>
 

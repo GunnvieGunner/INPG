@@ -2,7 +2,12 @@
 #define SHAPES_HPP_
 
 #include <vector>
+<<<<<<< HEAD
 #include <sstream>
+=======
+#include <array>
+
+>>>>>>> remotes/origin/New-Branch
 class Shape {
 public:
     Shape(double x, double y) : x_(x), y_(y) {}

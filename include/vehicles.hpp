@@ -1,6 +1,7 @@
 #ifndef VEHICLES_HPP_
 #define VEHICLES_HPP_
 
+#include <cstdlib>
 #include <string>
 #include <vector>
 #include <functional>
